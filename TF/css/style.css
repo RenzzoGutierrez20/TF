@@ -24,7 +24,7 @@
 html{
     font-size: 62.5%;
 }
-
+/*Header Contaleader*/
 header{
     position:relative;
     width:100%;
@@ -106,7 +106,7 @@ header .header__button{
     background-repeat:no-repeat;
     background-size:cover;
 }
-
+/*section ABOUT*/
 main{
     min-width:320px;
 }
@@ -188,6 +188,7 @@ main{
     background-repeat:no-repeat;
     background-size:cover;
 }
+/*Section DOWNLOAD COUNTER and DOWNLOAD BUSINESS*/
 .button--download a {
     text-decoration: none;
     color:var(--just-white);
@@ -240,12 +241,11 @@ main{
     margin-left:30px;
     margin-top:0;
 }
-
+/*Section BUY INFORMATION*/
 .section-buy-information{
     width:100%;
     margin-top:10px;
     text-align:center;
-
 }
 
 .section-buy-information .information-card{
@@ -303,6 +303,7 @@ main{
     font-size:1.0rem;
     flex-wrap:wrap;
 }
+/*Section ABOUT THE PRODUCT - TEAM*/
 .section-about-content{
     position:relative;
     width:100%;
@@ -339,7 +340,7 @@ main{
     margin:0 auto;
     line-height:1.4rem;
 }
-
+/*Section CALL TO ACTION*/
 .call-to-action{
     position:relative;
     width:100%;
@@ -391,7 +392,7 @@ main{
     text-decoration: none;
     cursor:pointer;
 }
-
+/*section FOOTER*/
 .footer{
     position:relative;
     width:100%;
